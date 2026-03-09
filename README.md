@@ -1,6 +1,6 @@
 # Jetpack Joyride - OOP Game Project
 
-[cite_start]**Developed by:** Revai Mor, Noya Mashiah, and Maayan Bergman [cite: 1]
+**Developed by:** Revai Mor, Noya Mashiah, and Maayan Bergman [cite: 1]
 
 ## 📖 Overview
 
