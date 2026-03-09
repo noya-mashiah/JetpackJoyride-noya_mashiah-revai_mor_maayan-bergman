@@ -293,7 +293,28 @@ stl containers : the explenation for choosing each container is in the class
 
 Notable Algorithms:
 =====================
-- Calculating a heart shape for coins, perals and etc.  
+- Calculating a heart shape for coins, perals and etc.
+
+
+UML Class Diagrams:
+=====================
+Visual documentation of the project's class hierarchy and relationships
+is available in resources/Images/inharitance_trees_uml/.
+
+The following UML diagrams illustrate the inheritance structure:
+- Button.png - Button class hierarchy (BaseButton and its implementations)
+- ButtonCommand.png - Command Pattern for buttons
+- GameState.png - Game state hierarchy (menu, play, pause, etc.)
+- GameObjectTree.png - Complete GameObject inheritance tree
+- MovingObjectTree.png - MovingObject subclass hierarchy
+- ObstaclesTree.png - Obstacle types and their relationships
+- PickablesTree.png - Pickable items hierarchy
+- PlayerCommand.png - Command Pattern for player actions
+- PlayerState.png - State Pattern for player modes
+- Managers.png - Manager classes and their relationships
+- entireClassDiagram.png - Complete project class diagram
+- ExpandedClassDiagram.png - Detailed expanded class diagram
+
 
 Design :                  
 ===============
