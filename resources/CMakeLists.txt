@@ -128,6 +128,20 @@ configure_file ("Audios/Screens/SeaStateSound.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
 #Scientist
 configure_file ("Images/Objects/Other/Scientist.png" ${CMAKE_BINARY_DIR} COPYONLY)
 
+#inharitance_trees_uml
+configure_file ("Images/inharitance_trees_uml/Button.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Images/inharitance_trees_uml/ButtonCommand.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Images/inharitance_trees_uml/entireClassDiagram.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Images/inharitance_trees_uml/ExpandedClassDiagram.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Images/inharitance_trees_uml/GameObjectTree.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Images/inharitance_trees_uml/GameState.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Images/inharitance_trees_uml/Managers.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Images/inharitance_trees_uml/MovingObjectTree.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Images/inharitance_trees_uml/ObstaclesTree.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Images/inharitance_trees_uml/PickablesTree.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Images/inharitance_trees_uml/PlayerCommand.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Images/inharitance_trees_uml/PlayerState.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
 #font
 configure_file ("Text Fonts/Jetpackia.ttf" ${CMAKE_BINARY_DIR} COPYONLY)
 
